@@ -7,4 +7,6 @@ Added the following lines to this text:
 - You can insert bulleted points
 - You can insert numbered steps
 - You can insert diagrams
+- You can insert tables
+- You can insert images
 
